@@ -18,9 +18,9 @@ body {
     display: flex;
     flex-direction: row;
     background-color: hsl(244, 38%, 16%);
-    height: 500px;
-    width: 1000px;
-    border-radius: 15px;
+    height: 480px;
+    width: 1040px;
+    border-radius: 8px;
     min-width: 500px;
     min-height: 250px;
 }
@@ -68,7 +68,7 @@ body {
     width: 50%;
     background-color: hsl(277, 64%, 61%);
     position: relative;
-    border-radius: 0px 15px 15px 0px;
+    border-radius: 0px 8px 8px 0px;
 }
 img {
     width: 100%;
